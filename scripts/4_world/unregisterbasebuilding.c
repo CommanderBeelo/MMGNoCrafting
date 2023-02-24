@@ -1,9 +1,8 @@
 modded class PluginRecipesManager 
 {
-    override void RegisterRecipies()
+     override void RegisterRecipies()
     {
         super.RegisterRecipies();
-        
         UnregisterRecipe("craft_mmg_crate03_unfinished_wood");
         UnregisterRecipe("craft_mmg_crate03_wood");
         UnregisterRecipe("craft_mmg_crate03_grey");
