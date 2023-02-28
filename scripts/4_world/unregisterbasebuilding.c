@@ -12,6 +12,6 @@ modded class PluginRecipesManager
         UnregisterRecipe("craft_mmg_craftable_gun_rack");
         UnregisterRecipe("craft_mmg_craftable_tent_kit");
         UnregisterRecipe("craft_mmg_old_table");
-        UnregisterRecipe("craft_mmg_wall_shelf);");
+        UnregisterRecipe("craft_mmg_wall_shelf");
     }            
 }
