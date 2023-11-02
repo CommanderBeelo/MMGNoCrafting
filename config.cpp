@@ -39,7 +39,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"MMGNoCrafting/Scripts/4_World"
+					"MMGNoCrafting/scripts/4_world"
 				};
 			};
 		};
